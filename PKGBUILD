@@ -32,7 +32,7 @@ makedepends=(
   "${_py}-setuptools"
 )
 _http="https://github.com"
-_ns="keys"
+_ns="keis"
 url="${_http}/${_ns}/${_pkg}"
 license=(
   'MIT'
